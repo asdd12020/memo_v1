@@ -1,0 +1,9 @@
+C:\Users\Mifea\AppData\Local\Temporary Projects\memo_v1\bin\Release\memo_v1.exe
+C:\Users\Mifea\AppData\Local\Temporary Projects\memo_v1\bin\Release\memo_v1.pdb
+C:\Users\Mifea\AppData\Local\Temporary Projects\memo_v1\obj\x86\Release\memo_v1.Form1.resources
+C:\Users\Mifea\AppData\Local\Temporary Projects\memo_v1\obj\x86\Release\memo_v1.Properties.Resources.resources
+C:\Users\Mifea\AppData\Local\Temporary Projects\memo_v1\obj\x86\Release\memo_v1.csproj.GenerateResource.Cache
+C:\Users\Mifea\AppData\Local\Temporary Projects\memo_v1\obj\x86\Release\memo_v1.exe
+C:\Users\Mifea\AppData\Local\Temporary Projects\memo_v1\obj\x86\Release\memo_v1.pdb
+C:\Users\Mifea\Documents\Visual Studio 2010\Projects\memo_v1\memo_v1\obj\x86\Release\memo_v1.exe
+C:\Users\Mifea\Documents\Visual Studio 2010\Projects\memo_v1\memo_v1\obj\x86\Release\memo_v1.pdb
